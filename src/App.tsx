@@ -6,7 +6,7 @@ export function App() {
   return (
     <>
       <>
-        <Heading />
+        <Heading> Olá Mundo!</Heading>
       </>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo deserunt
